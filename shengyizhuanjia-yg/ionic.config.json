@@ -1,0 +1,10 @@
+{
+  "name": "shengyizhuanjia-yg",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
